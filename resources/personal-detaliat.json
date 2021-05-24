@@ -1,0 +1,158 @@
+{
+  "personal": [{},
+    {
+      "nume": "Ion Popescu",
+      "varsta": 27,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "militari",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-militari.png",
+      "masina": "/images/car-audi.jpg"
+    },
+    {
+      "nume": "Alex Breban",
+      "varsta": 32,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "militari",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-militari.png",
+      "masina": "/images/car-bmw.jpg"
+    },
+    {
+      "nume": "Calin Olinescu",
+      "varsta": 27,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "militari",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-militari.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Gabi Goga",
+      "varsta": 32,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "militari",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-militari.png",
+      "masina": "/images/car-audi.jpg"
+    },
+    {
+      "nume": "Ion Popescu",
+      "varsta": 44,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "tineretului",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-tineretului.png",
+      "masina": "/images/car-audi.jpg"
+    },
+    {
+      "nume": "Luca Diaconu",
+      "varsta": 27,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "tineretului",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-tineretului.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Gabi Goga",
+      "varsta": 32,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "tineretului",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-tineretului.png",
+      "masina": "/images/car-audi.jpg"
+    },
+    {
+      "nume": "Ion Popescu",
+      "varsta": 30,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-audi.jpg"
+    },
+    {
+      "nume": "Gabi Goga",
+      "varsta": 32,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Calin Olinescu",
+      "varsta": 43,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-bmw.jpg"
+    },
+    {
+      "nume": "Serghei Iagar",
+      "varsta": 47,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Florentin Nistor",
+      "varsta": 21,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Glad Adamache",
+      "varsta": 52,
+      "disponibil": true,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-fiat.jpg"
+    },
+    {
+      "nume": "Simion Cretu",
+      "varsta": 35,
+      "disponibil": false,
+      "nrtel": "078 5551 3512",
+      "zona": "auxiliar",
+      "descriere1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nisi nibh, sagittis id sem vitae, ullamcorper condimentum quam. Proin ut nisi viverra, luctus felis ut, eleifend velit. Praesent diam tortor, tincidunt vitae sem eget, imperdiet maximus enim. Phasellus felis risus, finibus elementum ipsum eget, volutpat sollicitudin turpis.",
+      "descriere2": "Vestibulum nec dolor in tortor fringilla pretium sed in ipsum. Maecenas at eleifend eros, eu rutrum nulla. Sed commodo orci neque, at dapibus dolor lobortis ut. Aliquam erat volutpat. Nam quis nisi euismod, feugiat nisi vitae, gravida risus. Vestibulum euismod rutrum eros ac rutrum.",
+      "profil": "/images/person-auxiliar.png",
+      "masina": "/images/car-fiat.jpg"
+    }
+  ]
+}

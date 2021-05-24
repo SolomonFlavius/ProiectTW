@@ -1,0 +1,63 @@
+#user-stats, #user-buttons {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+#user-buttons {
+  margin-top: 2%;
+}
+
+.red-btn {
+  border: 2px solid #b23b3b;
+  text-decoration: none;
+  display: inline-block;
+  background: #b23b3b;
+  color: white;
+  width: 10%;
+  padding: 10px;
+  margin: 5px;
+  font-size: 14px;
+  text-align: center;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.blue-btn {
+  background-color: #40476d;
+  border: 2px solid #40476d;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  outline: 0;
+  width: 10%;
+  padding: 10px;
+  margin: 5px;
+  font-size: 14px;
+  text-align: center;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.red-btn:hover {
+  background-color: white;
+  color: #b23b3b;
+}
+
+.blue-btn:hover {
+  background-color: white;
+  color: #40476d;
+}
+
+@media all and (max-width: 768px) {
+    .red-btn, .blue-btn {
+        width: 80%;
+   }
+    .buton, .buton-control, .buton-quiz {
+        margin-top: 5%;
+        margin-bottom: 5%;
+   }
+}

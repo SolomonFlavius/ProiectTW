@@ -1,0 +1,65 @@
+@keyframes fade {
+     0% {
+        opacity: 0;
+    }
+     33% {
+        opacity: 1
+    }
+     66% {
+        opacity: 0;
+    }
+     100% {
+        opacity: 0;
+    }
+}
+
+#transition {
+     padding-left: 10%;
+     padding-right: 10%;
+     height: 500px;
+     max-height: 30%;
+     width: 80%;
+     position: relative;
+     margin: auto;
+}
+#transition img {
+     max-height: 100%;
+     max-width: 100%;
+     border: 3px solid midnightblue;
+     border-radius: 10px;
+     position: absolute;
+     left: 0;
+     right: 0;
+     margin: auto;
+     animation-name: fade;
+     animation-iteration-count: infinite;
+     animation-duration: 12s;
+}
+
+#image2 {
+     animation-delay: -4s;
+}
+
+#image3 {
+     animation-delay: -8s;
+}
+
+@media all and (max-width: 768px) {
+     #transition {
+         height: 150px;
+         width: 60%;
+    }
+}
+
+@media all and (min-width: 768px) and (max-width: 1280px) {
+     #transition {
+         height: 400px;
+         width: 60%;
+    }
+}
+
+@media all and (min-width: 1280px) {
+     #transition {
+         width: 80%;
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin",
+            "privilege": "admin",
+            "quizP": "0",
+            "quizF": "0",
+            "lastLogin": "24/05/2021 - 17:59:45",
+            "lastIp": "::1"
+        },
+        {
+            "username": "abc",
+            "password": "abc",
+            "privilege": "user",
+            "quizP": "0",
+            "quizF": "0",
+            "lastLogin": "24/05/2021 - 17:59:37",
+            "lastIp": "::1"
+        }
+    ]
+}

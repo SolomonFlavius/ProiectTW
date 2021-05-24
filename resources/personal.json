@@ -1,0 +1,145 @@
+{
+  "personal": {
+    "militari": [
+      {
+        "img": "images/person-militari.png",
+        "nume": "Ion Popescu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 1
+      },
+      {
+        "img": "images/person-militari.png",
+        "nume": "Alex Breban",
+        "numar": "077 5559 7330",
+        "masina": "BMW Series 3",
+        "id": 2
+      },
+      {
+        "img": "images/person-militari.png",
+        "nume": "Calin Olinescu",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 3
+      },
+      {
+        "img": "images/person-militari.png",
+        "nume": "Gabi Goga",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 4
+      }
+    ],
+    "tineretului": [
+      {
+        "img": "images/person-tineretului.png",
+        "nume": "Ion Popescu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 5
+      },
+      {
+        "img": "images/person-tineretului.png",
+        "nume": "Luca Diaconu",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 6
+      },
+      {
+        "img": "images/person-tineretului.png",
+        "nume": "Gabi Goga",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 7
+      }
+    ],
+    "auxiliar": [
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Ion Popescu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 8
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Gabi Goga",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 9
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Calin Olinescu",
+        "numar": "077 5559 7330",
+        "masina": "BMW Series 3",
+        "id": 10
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Serghei Iagar",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 11
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Florentin Nistor",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 12
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Glad Adamache",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 13
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Simion Cretu",
+        "numar": "077 5559 7330",
+        "masina": "Fiat Tipo",
+        "id": 14
+      }
+    ],
+    "primaverii": [
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Ion Popescu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 15
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Calin Olinescu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 16
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Florentin Nistor",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 17
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Glad Adamache",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 18
+      },
+      {
+        "img": "images/person-auxiliar.png",
+        "nume": "Simion Cretu",
+        "numar": "077 5559 7330",
+        "masina": "AUDI A4",
+        "id": 19
+      }
+    ]
+  }
+}

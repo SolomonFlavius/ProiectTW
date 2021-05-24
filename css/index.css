@@ -1,0 +1,43 @@
+#reclama-text {
+     padding-left: 10%;
+     padding-right: 10%;
+}
+#reclama-image {
+     padding-left: 10%;
+     padding-right: 10%;
+     padding-top: 0%;
+     display: flex;
+     justify-content: space-between;
+}
+ .car-presentation {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     width: 20%;
+}
+ .car-presentation img {
+     width: 100%;
+     height: 100%;
+}
+ .image-text {
+     width: 100%;
+     border-radius: 0px 0px 20px 20px;
+     background: linear-gradient(0deg, rgba(64,71,109,1) 0%, rgba(138,156,255,1) 100%);
+}
+ .presentation-text {
+     padding-top: 10px;
+     padding-bottom: 10px;
+     color: white;
+     text-align: center;
+}
+ @media all and (max-width: 768px) {
+     #reclama-image {
+         flex-direction: column;
+    }
+     .car-presentation {
+         width: 80%;
+         margin-left: 10%;
+         margin-right: 10%;
+         margin-bottom: 5%;
+    }
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ro">
+<script>
+  var posX;
+  var posY;
+  var movX;
+  var movY;
+
+  window.onload = function() {
+    const inv = setInterval(move, 5);
+    posX = 0;
+    posY = 0;
+    movX = 2.5;
+    movY = 2.5;
+  }
+
+
+  function move()
+  {
+    const text = document.getElementById('icon');
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    posX += movX;
+    posY += movY;
+    text.style.top = posX + "px";
+    text.style.left = posY + "px";
+
+    if (posX > height - 256)
+      movX = -2.5;
+    else if (posX < 0)
+      movX = 2.5;
+    else if (posY > width - 256)
+      movY = -2.5;
+    else if (posY < 0)
+      movY = 2.5;
+  }
+</script>
+<style>
+  #icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    top = 0px;
+    left = 0px;
+  }
+
+  #text {
+    position: absolute;
+    font-size: 300px;
+    animation: text 5s infinite;
+    z-index: -1;
+    text-align: center;
+  }
+
+  body {
+    animation: fundal 5s infinite;
+  }
+
+  @keyframes fundal {
+    0%   {background-color: red}
+    25%  {background-color: blue;}
+    50%  {background-color: red;}
+    75% {background-color: blue;}
+    100% {background-color: red;}
+  }
+  @keyframes text {
+    0%   {color: blue}
+    25%  {color: red;}
+    50%  {color: blue;}
+    75% {color: red;}
+    100% {color: blue;}
+  }
+
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <link rel="icon" href="images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <title>Școala Best Auto</title>
+</head>
+
+<body>
+   <a href="/"><img src="images/police-car.png" id="icon" href="/"></a>
+  <h1 id = "text"> 404: Pagina nu s-a găsit</h1>
+</body>
+
+</html>

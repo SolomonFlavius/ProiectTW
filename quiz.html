@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/header-page.css">
+    <link rel="stylesheet" href="css/footer-page.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="js/quiz.js"></script>
+    <script type="text/javascript" src="js/utils.js"></script>
+    <title>Scoala Camino Driver</title>
+</head>
+
+<body>
+
+    <header id="header">
+        <h1 id="titlu" class="title">Scoala Camino Driver</h1>
+        <br>
+        <h3 class="subtitle">☎️ 0755639627</h3>
+        <h3 class="subtitle">📧 scoaladesoferi@caminodriver.ro</h3>
+        <br>
+        <h3 class="subtitle">☎️ 0755639628</h3>
+        <h3 class="subtitle">📧 scoaladesoferi@caminodriver.ro</h3>
+    </header>
+
+    <nav id="menu">
+      <a class="menu-item" href="index">Acasă <i class="fa fa-home"></i></a>
+      <a class="menu-item " href="permis">Permis auto <i class="fa fa-car"></i></a>
+      <a class="menu-item menu-item-active" href="utilizatori">Utilizatori <i class="fa fa-users"></i></a>
+      <a class="menu-item" href="personal-page">Personal <i class="fa fa-briefcase"></i></a>
+    </nav>
+    <div id="instructiuni">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et leo sit amet odio aliquet volutpat. Integer non malesuada erat, in viverra lectus. Cras a auctor ipsum, eu aliquet nunc. Cras accumsan orci non est auctor porttitor. Praesent luctus mollis scelerisque. Etiam congue arcu mi, a sagittis nisi iaculis et. Suspendisse non nunc aliquam, imperdiet enim eget, placerat magna. Nunc vitae eleifend augue. Vestibulum malesuada ac nulla et pharetra. Ut pretium ipsum ut arcu dictum
+        hendrerit. Suspendisse tempus turpis vitae metus venenatis volutpat. Nunc consequat turpis quis velit blandit porttitor in sed urna. Nunc id fermentum metus. Nunc ut magna congue, scelerisque turpis sit amet, feugiat libero. Vivamus cursus felis sit amet aliquam imperdiet.<p>
+        <button id = "inapoi" class = "buton" onclick="window.location.href = 'user-panel'">MERGI ÎNAPOI <i class="fa fa-chevron-left"></i></button>
+    </div>
+    <ul id="rezultat">
+    </ul>
+    <div id="quiz-prepare">
+        <button class="buton" onclick="prepare_quiz(1)">TEST CATEGORIA A</button>
+        <button class="buton" onclick="prepare_quiz(2)">TEST CATEGORIA B</button>
+        <button class="buton" onclick="prepare_quiz(3)">TEST CATEGORIA X</button>
+    </div>
+    <div id="quiz">
+        <div id="stats">
+            <p id="timp-ramas"><i class="fa fa-hourglass"></i> TIMP RĂMAS: <span id="RT"></span></p>
+            <p id="intrebari-ramase"><i class="fa fa-question"></i> ÎNTREBĂRI RĂMASE: <span id="RQ"></span></p>
+            <p id="intrebari-corecte"><i class="fa fa-check"></i> ÎNTREBĂRI CORECTE: <span id="CQ"></span></p>
+            <p id="intrebari-gresite"><i class="fa fa-times"></i> ÎNTREBĂRI GREȘITE: <span id="WQ"></span></p>
+        </div>
+        <div id="question">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et leo sit amet odio aliquet volutpat. Integer non malesuada erat, in viverra lectus.
+        </div>
+        <div id="quiz-questions">
+            <div id="quiz-buttons">
+                <button class="buton-quiz" id="buton1">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </button>
+                <button class="buton-quiz" id="buton2">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </button>
+                <button class="buton-quiz" id="buton3">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </button>
+            </div>
+            <div id="quiz-image">
+                <img src="images/street1.jpg" id="qimage">
+            </div>
+        </div>
+        <div id="quiz-control">
+            <button class="buton-control gray-btn" id="skip_intrebare">
+                <i class="fa fa-hourglass"></i> RĂSPUNDE MAI TÂRZIU
+            </button>
+            <button class="buton-control red-btn" id="sterge_rasp">
+                <i class="fa fa-times"></i> ȘTERGE RĂSPUNSURI
+            </button>
+            <button class="buton-control green-btn" id="trimite_rasp">
+                <i class="fa fa-check"></i> TRIMITE RĂSPUNSURI
+            </button>
+        </div>
+    </div>
+    <br>
+    <br>
+    <footer id="footer">
+        <div id="program">
+            <p class="title-paragraph-on-blue"><b>PROGRAM:</b></p>
+            <p class="paragraph-on-blue">Luni: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Marți: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Miercuri: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Joi: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Vineri: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Sâmbătă: 08:00 - 18:00</p>
+            <p class="paragraph-on-blue">Duminică: ÎNCHIS</p>
+        </div>
+        <div id="adresa">
+            <p class="title-paragraph-on-blue"><b>ADRESĂ ȘI INFORMAȚII DE CONTACT:</b></p>
+            <p class="title-paragraph-on-blue"><b> Sediu Militari:</b></p>
+            <p class="paragraph-on-blue">Adresă: Mun. București, Sector 6, Str. Cernișoarei, bl. 102, sc. 1, et. 1, ap. 5</p>
+            <p class="paragraph-on-blue">Număr telefon: 0755639627</p>
+            <p class="paragraph-on-blue">e-mail: scoaladesoferi@caminodriver.ro</p>
+            <p class="title-paragraph-on-blue"><b> Sediu Tineretului: </b></p>
+            <p class="paragraph-on-blue">Adresă: Mun. București, Sector 4, BD. TINERETULUI nr. 53 bl. 65 sc. A Ap. 35</p>
+            <p class="paragraph-on-blue">Număr telefon: 0755639628</p>
+            <p class="paragraph-on-blue">e-mail: scoaladesoferi@caminodriver.ro</p>
+        </div>
+    </footer>
+</body>
+
+</html>
